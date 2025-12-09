@@ -1,1 +1,1 @@
-Code for Towards biologically plausible DNN optimization: Replacing backpropagation and loss functions with a top-down credit assignment network
+Code Repository for “Towards Biologically Plausible DNN Optimization: Replacing Backpropagation and Loss Functions with a Top-Down Credit Assignment Network”
